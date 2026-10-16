@@ -19,3 +19,5 @@ if angka >= 1 and angka <= 10:
 
 else:
     print("di luar rentang ❌")
+
+print("Program selesai dijalankan!")
